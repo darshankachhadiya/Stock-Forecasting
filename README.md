@@ -18,7 +18,7 @@
    2. FbProphet
 
 ### Prediction
-   1.Plot Next 180 days Prediction
-   2.Plot Weekly and Yearly Trend
+   1. Plot Next 180 days Prediction
+   2. Plot Weekly and Yearly Trend
    
 Web App URL : https://share.streamlit.io/darshankachhadiya/stock-forecasting/main/main.py
