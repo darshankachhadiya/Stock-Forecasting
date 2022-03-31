@@ -17,6 +17,8 @@
    1. LSTM Multi-Variant
    2. FbProphet
 
-### Prediction(180 Days)
+### Prediction
    1.Plot Next 180 days Prediction
    2.Plot Weekly and Yearly Trend
+   
+Web App URL : https://share.streamlit.io/darshankachhadiya/stock-forecasting/main/main.py
